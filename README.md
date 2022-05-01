@@ -42,7 +42,7 @@ Clone both this and the patches repos:
 
     git clone https://github.com/wugo2021/lineage_build_unified lineage_build_unified -b lineage-18.1
     git clone https://github.com/wugo2021/lineage_patches_unified lineage_patches_unified -b lineage-18.1
-    git clone https://github.com/wugo2021/treble_experimentations
+    git clone https://github.com/wugo2021/treble_manifest_crdrom lineage_build_unified/local_manifests_treble
 
 Finally, start the build script
 
